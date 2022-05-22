@@ -1,0 +1,60 @@
+.myBG {
+  background-color: lightgray;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* .intro {
+  height: 280px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  color: black;
+} */
+
+.user-img {
+  width: 50px;
+}
+
+.logo-img {
+  width: 150px;
+}
+
+.nav-span {
+  color: #23c7c6;
+}
+
+.navbar {
+  padding: 50px;
+}
+
+.nav-txt {
+  padding: 30px;
+}
+
+.nav-side {
+  flex-direction: column;
+  padding-left: 20px;
+  /* margin-bottom: 0; */
+  width: 17em;
+  height: 100vh;
+  background-color: white;
+  /* justify-content: center; */
+}
+
+.side-txt {
+  padding: 10px;
+}
+
+.title {
+  color: #23c7c6;
+  font-size: 2em;
+  font-weight: 800;
+}
+.img-card {
+  width: 50px;
+}
