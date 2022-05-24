@@ -1,23 +1,8 @@
 .myBG {
-  /* background-color: lightgray;
-  height: 100vh;
-  background-size: cover;
-  background-attachment: fixed; */
   background-color: lightgray !important;
   height: 100vh;
   overflow-y: hidden;
 }
-
-/* .intro {
-  height: 280px;
-  display: flex;
-  justify-content: end;
-  align-items: end;
-}
-
-.title {
-  color: black;
-} */
 
 .user-img {
   width: 50px;
@@ -42,11 +27,11 @@
 .nav-side {
   flex-direction: column;
   padding-left: 20px;
-  /* margin-bottom: 0; */
   width: 17em;
-  height: 100vh;
+  height: 80vh;
   background-color: white;
-  /* justify-content: center; */
+  color: lightgray;
+  /* text-align: justify; */
 }
 
 .side-txt {
@@ -55,9 +40,29 @@
 
 .title {
   color: #23c7c6;
-  font-size: 2em;
-  font-weight: 800;
+  /* font-size: 2em;
+  font-weight: 800; */
+  text-transform: uppercase;
 }
 .img-card {
-  width: 50px;
+  width: 40px;
+}
+
+.side-icon {
+  margin-right: 10px;
+}
+
+.btn-add {
+  /* background-color: #23c7c6;
+  border-color: #23c7c6; */
+  text-transform: uppercase;
+  /* color: white; */
+}
+
+.btn-icon {
+  margin-left: 5px;
+}
+
+.cardContainer {
+  margin: 5px;
 }
