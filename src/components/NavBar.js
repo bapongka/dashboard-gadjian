@@ -28,7 +28,6 @@ const NavigationTop = () => {
             <Navbar.Brand href="#home">
               <Image src={logo} alt="Gajian Logo" className="logo-img" />
             </Navbar.Brand>
-            <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end">
               <Navbar.Text className="nav-txt">
                 Hallo, <span className="nav-span">Gadjian User</span>
